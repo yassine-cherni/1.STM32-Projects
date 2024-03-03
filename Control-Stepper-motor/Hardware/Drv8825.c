@@ -1,7 +1,7 @@
 
 #include "main.h"
 #include "stm32f1xx_hal.h"
-#include "main.c"
+#include "stdio.h"
 /* USER CODE BEGIN Includes */
 /* USER CODE END Includes */
 
