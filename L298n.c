@@ -6,7 +6,7 @@
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 static void MX_TIM1_Init(void);
-
+main()
 // Global variables
 TIM_HandleTypeDef htim1;
 
